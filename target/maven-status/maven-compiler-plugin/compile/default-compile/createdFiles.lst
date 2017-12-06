@@ -1,0 +1,4 @@
+demo\hewe\spouts\WordReader.class
+demo\hewe\bolts\WordCounter.class
+demo\hewe\Application.class
+demo\hewe\bolts\WordNormalizer.class
